@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CE11AB4315E4D2D100D07B1E /* Licence.markdown in Resources */ = {isa = PBXBuildFile; fileRef = CE11AB4215E4D2D100D07B1E /* Licence.markdown */; };
+		CE11AB4A15E4D5E900D07B1E /* LICENCE.markdown in Resources */ = {isa = PBXBuildFile; fileRef = CE11AB4915E4D5E900D07B1E /* LICENCE.markdown */; };
 		CE7E063315E24BB500B79D9E /* NotificationMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = CE7E063215E24BB500B79D9E /* NotificationMenu.m */; };
 		CE7E063715E28A9700B79D9E /* SchedulerMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = CE7E063615E28A9700B79D9E /* SchedulerMenu.m */; };
 		CE7E064715E3F01100B79D9E /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = CE7E064515E3F01100B79D9E /* Default.png */; };
@@ -280,7 +280,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CE11AB4215E4D2D100D07B1E /* Licence.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Licence.markdown; sourceTree = "<group>"; };
+		CE11AB4915E4D5E900D07B1E /* LICENCE.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENCE.markdown; sourceTree = SOURCE_ROOT; };
 		CE7E063115E24BB500B79D9E /* NotificationMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NotificationMenu.h; sourceTree = "<group>"; };
 		CE7E063215E24BB500B79D9E /* NotificationMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NotificationMenu.m; sourceTree = "<group>"; };
 		CE7E063515E28A9700B79D9E /* SchedulerMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SchedulerMenu.h; sourceTree = "<group>"; };
@@ -608,6 +608,7 @@
 		CE83387D15E238EE00D42627 /* Code */ = {
 			isa = PBXGroup;
 			children = (
+				CE11AB4915E4D5E900D07B1E /* LICENCE.markdown */,
 				DC0C4B78154AB4DF00B4B727 /* AppDelegate.h */,
 				DC0C4B79154AB4DF00B4B727 /* AppDelegate.m */,
 				DC0C4B7B154AB4DF00B4B727 /* HelloWorldLayer.h */,
@@ -618,7 +619,6 @@
 				CE7E063215E24BB500B79D9E /* NotificationMenu.m */,
 				CE7E063515E28A9700B79D9E /* SchedulerMenu.h */,
 				CE7E063615E28A9700B79D9E /* SchedulerMenu.m */,
-				CE11AB4215E4D2D100D07B1E /* Licence.markdown */,
 			);
 			name = Code;
 			sourceTree = "<group>";
@@ -1278,7 +1278,7 @@
 				CE83387C15E238E100D42627 /* informationfont.png in Resources */,
 				CE7E064715E3F01100B79D9E /* Default.png in Resources */,
 				CE7E064815E3F01100B79D9E /* Default@2x.png in Resources */,
-				CE11AB4315E4D2D100D07B1E /* Licence.markdown in Resources */,
+				CE11AB4A15E4D5E900D07B1E /* LICENCE.markdown in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
