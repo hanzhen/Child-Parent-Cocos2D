@@ -1,3 +1,10 @@
+// Created by Peter Matthews on 22/08/2012
+// Copyright 2012 Peter Matthews
+//
+// www.shakeyourapp.net/developer
+// Code Examples
+// Peter Matthews -  peterm999@msn.com
+
 //This class demonstrates using a delegate
 
 #import "DelegateMenu.h"

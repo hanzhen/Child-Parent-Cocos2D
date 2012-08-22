@@ -1,7 +1,13 @@
 //
 //  HelloWorldLayer.h
-//  cocos2d-2.x-ARC-iOS
 //
+
+// Created by Peter Matthews on 22/08/2012
+// Copyright 2012 Peter Matthews
+//
+// www.shakeyourapp.net/developer
+// Code Examples
+// Peter Matthews -  peterm999@msn.com
 
 
 
